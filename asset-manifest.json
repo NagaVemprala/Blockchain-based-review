@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Blockchain-based-review/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Blockchain-based-review/static/js/main.50beac23.chunk.js",
+    "main.js.map": "/Blockchain-based-review/static/js/main.50beac23.chunk.js.map",
+    "runtime-main.js": "/Blockchain-based-review/static/js/runtime-main.96f80f9b.js",
+    "runtime-main.js.map": "/Blockchain-based-review/static/js/runtime-main.96f80f9b.js.map",
+    "static/js/2.b3774db6.chunk.js": "/Blockchain-based-review/static/js/2.b3774db6.chunk.js",
+    "static/js/2.b3774db6.chunk.js.map": "/Blockchain-based-review/static/js/2.b3774db6.chunk.js.map",
+    "index.html": "/Blockchain-based-review/index.html",
+    "precache-manifest.7556ed1c7a84e2878d155bb9e0970136.js": "/Blockchain-based-review/precache-manifest.7556ed1c7a84e2878d155bb9e0970136.js",
+    "service-worker.js": "/Blockchain-based-review/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Blockchain-based-review/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b3774db6.chunk.js.LICENSE.txt": "/Blockchain-based-review/static/js/2.b3774db6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96f80f9b.js",
+    "static/js/2.b3774db6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.50beac23.chunk.js"
+  ]
+}
